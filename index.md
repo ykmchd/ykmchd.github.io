@@ -14,3 +14,4 @@ I live in Japan.
 * [Qiita](http://qiita.com/ykmchd)
 * [Bookmeter](http://i.bookmeter.com/u/732217)
 * [miil](https://miil.me/u/yukimachida)
+* [wantedly](https://www.wantedly.com/users/33453587)
