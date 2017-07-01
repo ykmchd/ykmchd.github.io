@@ -10,6 +10,7 @@ I live in Japan.
 * [Facebook](https://www.facebook.com/ykmchd)
 * [Instagram](https://www.instagram.com/ykmchd/)
 * [Blog](http://ykmchd.blogspot.jp/)
+* [Blog (tech)](http://softrunner.hatenablog.jp/)
 * [Github](https://github.com/ykmchd)
 * [Qiita](http://qiita.com/ykmchd)
 * [Bookmeter](http://i.bookmeter.com/u/732217)
