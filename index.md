@@ -6,14 +6,15 @@ I live in Japan.
 
 ## Links
 
-* [Twitter](https://twitter.com/ykmchd)
 * [Facebook](https://www.facebook.com/ykmchd)
+* [linkedin](https://www.linkedin.com/in/ykmchd/)
+* [wantedly](https://www.wantedly.com/users/33453587)
+* [Twitter](https://twitter.com/ykmchd)
 * [Instagram](https://www.instagram.com/ykmchd/)
+* [Tumblr](https://www.tumblr.com/blog/ykmchd)
 * [Blog](http://ykmchd.blogspot.jp/)
 * [Blog (tech)](http://softrunner.hatenablog.jp/)
-* [Tumblr](https://www.tumblr.com/blog/ykmchd)
 * [Github](https://github.com/ykmchd)
 * [Qiita](http://qiita.com/ykmchd)
 * [Bookmeter](http://i.bookmeter.com/u/732217)
-* [miil](https://miil.me/u/yukimachida)
-* [wantedly](https://www.wantedly.com/users/33453587)
+* [Miil](https://miil.me/u/yukimachida)
