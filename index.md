@@ -1,4 +1,4 @@
-# ykmchd's Websute
+# ykmchd's Website
 
 ## About me
 
@@ -11,7 +11,7 @@ I live in Japan.
 * [Wantedly](https://www.wantedly.com/users/33453587)
 * [Twitter](https://twitter.com/ykmchd)
 * [Instagram](https://www.instagram.com/ykmchd/)
-* [Tumblr](https://www.tumblr.com/blog/ykmchd)
+* [Tumblr](https://ykmchd.tumblr.com/)
 * [Blog](http://ykmchd.blogspot.jp/)
 * [Blog (tech)](http://softrunner.hatenablog.jp/)
 * [Github](https://github.com/ykmchd)
