@@ -12,7 +12,7 @@ I live in Japan.
 * [Twitter](https://twitter.com/ykmchd)
 * [Instagram](https://www.instagram.com/ykmchd/)
 * [Tumblr](https://ykmchd.tumblr.com/)
-* [Blog](http://ykmchd.blogspot.jp/)
+* [Blog(misc)](https://ykmchd.blogspot.jp/)
 * [Blog (tech)](http://softrunner.hatenablog.jp/)
 * [Github](https://github.com/ykmchd)
 * [Qiita](http://qiita.com/ykmchd)
