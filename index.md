@@ -2,7 +2,7 @@
 
 ## About me
 
-I live in Japan.
+I'm Yuki Machida.
 
 ## Links
 
