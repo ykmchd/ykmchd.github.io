@@ -15,3 +15,4 @@ I'm Yuki Machida.
 * [TechBlog](http://inonekotech.hatenablog.jp/)
 * [Qiita](https://qiita.com/ykmchd)
 * [Github](https://github.com/ykmchd)
+* [Slideshare](https://www.slideshare.net/ssuser6130dd)
