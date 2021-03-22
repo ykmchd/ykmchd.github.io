@@ -10,6 +10,7 @@ I'm Yuki Machida.
 * [Blog](https://blog.inoneko.me/)
 * [LinkedIn](https://www.linkedin.com/in/ykmchd/)
 * [Wantedly](https://www.wantedly.com/users/33453587)
-* [Github](https://github.com/ykmchd)
+* [GitHub](https://github.com/ykmchd)
 * [Qiita](https://qiita.com/ykmchd)
+* [Zenn](https://zenn.dev/ykmchd)
 * [SpeakerDeck](https://speakerdeck.com/ykmchd)
