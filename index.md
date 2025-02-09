@@ -12,6 +12,7 @@ I'm Yuki Machida.
 * [LinkedIn](https://www.linkedin.com/in/ykmchd/)
 * [Wantedly](https://www.wantedly.com/users/33453587)
 * [GitHub](https://github.com/ykmchd)
+* [dev.io](https://dev.to/ykmchd)
 * [Qiita](https://qiita.com/ykmchd)
 * [Zenn](https://zenn.dev/ykmchd)
 * [SpeakerDeck](https://speakerdeck.com/ykmchd)
